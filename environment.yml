@@ -1,0 +1,10 @@
+name: venv
+channels:
+  - defaults
+dependencies:
+  - anaconda
+  - python=3.8
+  - fastai
+  - ipywidgets
+  - voila
+prefix: /home/rsun/Applications/miniconda3/envs/venv
